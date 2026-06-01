@@ -1,0 +1,5 @@
+set_property IOSTANDARD LVCMOS33 [get_ports L1]
+set_property IOSTANDARD LVCMOS33 [get_ports S1]
+set_property PACKAGE_PIN V17 [get_ports L1]
+set_property PACKAGE_PIN P1 [get_ports S1]
+set_property DRIVE 12 [get_ports L1]
